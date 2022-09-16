@@ -1,0 +1,30 @@
+.searchBar-wrap {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.493);
+  padding: 1.5rem 1.5rem;
+}
+
+.searchBar-icon {
+  color: rgba(0, 0, 0, 0.548);
+  margin-right: 2rem;
+}
+.searchBar-wrap input {
+  font-size: 1.5em;
+  outline: none;
+  border: none;
+  width: 25%;
+}
+
+.searchBar-wrap input::placeholder {
+  color: rgba(0, 0, 0, 0.37);
+  background-color: wheat;
+  border: none;
+  /* padding-top: 23px; */
+  /* padding-bottom: 2px; */
+  padding: 23px;
+}
+
+.searchtite {
+  margin-right: 834px;
+}

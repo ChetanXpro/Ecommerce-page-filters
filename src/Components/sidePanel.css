@@ -1,0 +1,32 @@
+.label {
+  margin-bottom: 0.8rem;
+  font-weight: 600;
+}
+
+.input-group {
+  margin-bottom: 2rem;
+}
+
+.label-range {
+  margin-bottom: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 0.8rem;
+}
+
+.sidepanell {
+  background-color: #37639163;
+
+  padding: 33px;
+}
+
+.sort button {
+  /* padding: 23px; */
+  /* margin: 8px; */
+  margin-bottom: 23px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  background-color: rgba(51, 39, 39, 0.678);
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
